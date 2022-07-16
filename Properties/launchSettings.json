@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_iotedge_send_cloud_to_device_function_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7293",
+      "launchBrowser": false
+    }
+  }
+}
